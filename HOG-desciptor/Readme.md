@@ -19,6 +19,6 @@
   
   上面b的網址中間有八行式子，有遺漏，可以去找相關的論文補齊。
 
-
+![Alt text](https://cloud.githubusercontent.com/assets/10431659/6080288/bde5fc80-ae4a-11e4-9a25-ac1f7aea7504.jpg)
   
 
