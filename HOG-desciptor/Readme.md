@@ -1,3 +1,6 @@
+![Alt text](https://cloud.githubusercontent.com/assets/10431659/6080288/bde5fc80-ae4a-11e4-9a25-ac1f7aea7504.jpg)
+  
+
 1.檔案 HOG.m 是沒有block的HOG，特徵維度固定皆為81維
 
 2.檔案 hog_feature_vector.m是有block的HOG，相對的他的特徵維度取決於圖片大小
@@ -19,6 +22,5 @@
   
   上面b的網址中間有八行式子，有遺漏，可以去找相關的論文補齊。
 
-![Alt text](https://cloud.githubusercontent.com/assets/10431659/6080288/bde5fc80-ae4a-11e4-9a25-ac1f7aea7504.jpg)
-  
+
 
